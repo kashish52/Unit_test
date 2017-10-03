@@ -5,5 +5,5 @@ public class jUnitTesting {
     public String addStrings(String a,String b){
         return a+b;
     }
-    
+
 }
